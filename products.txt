@@ -1,0 +1,1 @@
+{"product_name": "Apple", "product_price": "2500", "product_description": "This is apple", "seller": "pramod"}-{"product_name": "rara", "product_price": "20", "product_description": "hello rara", "seller": "gopal"}-{"product_name": "orange", "product_price": "25", "product_description": "Jucy Orange", "seller": "pramod"}-{"deposit_amount": 43000.0}-{"deposit_amount": 43000.0}-
