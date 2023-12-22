@@ -1,1 +1,1 @@
-{"username": "pramod", "password": "manyal"}-{"username": "xyz", "password": "abc"}-
+{"username": "pramod", "password": "pramod", "user_type": "seller"}-{"username": "ram", "password": "ram", "user_type": "buyer"}-{"username": "gopal", "password": "gopal", "user_type": "seller"}-{"username": "hari", "password": "hari", "user_type": "buyer"}-
